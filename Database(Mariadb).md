@@ -1,5 +1,5 @@
 # Database (Mariadb)
-
+## [SQL Αρχείο](https://github.com/Dimitris-Dedousis/lesson-in-moodle/blob/main/moodle.sql)
 ```bash
 ┌──(dimitris㉿dimitris)-[~]
 └─$ sudo mariadb -h 127.0.0.1 -u root -p
