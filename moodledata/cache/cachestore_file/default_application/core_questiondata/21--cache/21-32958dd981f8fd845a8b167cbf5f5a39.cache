@@ -1,0 +1,58 @@
+O:8:"stdClass":26:{s:2:"id";s:2:"21";s:8:"category";s:1:"4";s:6:"parent";s:1:"0";s:4:"name";s:10:"TCP IP OSI";s:12:"questiontext";s:1679:"<table style="border-collapse: collapse; width: 100%;" border="1"><colgroup><col style="width: 50%;"><col style="width: 50%;"></colgroup>
+<tbody>
+<tr>
+<td>TCP/IP</td>
+<td>OSI</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1"><colgroup><col style="width: 50.0726%;"><col style="width: 50.0726%;"></colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;">[[1]]</td>
+<td style="text-align: center;">[[5]]
+<table style="border-collapse: collapse; width: 100.294%; height: 81px;" border="1"><colgroup><col style="width: 99.7067%;"></colgroup>
+<tbody>
+<tr style="height: 27px;">
+<td style="height: 27px;">[[6]]</td>
+</tr>
+<tr style="height: 27px;">
+<td style="height: 27px;">[[7]]</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1"><colgroup><col style="width: 50%;"><col style="width: 50%;"></colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;">[[2]]</td>
+<td style="text-align: center;">[[8]]</td>
+</tr>
+<tr>
+<td style="text-align: center;">[[3]]</td>
+<td style="text-align: center;">[[9]]</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1"><colgroup><col style="width: 50%;"><col style="width: 50%;"></colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;">[[4]]</td>
+<td>
+<table style="border-collapse: collapse; width: 100.441%;" border="1"><colgroup><col style="width: 99.7076%;"></colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;">[[10]]</td>
+</tr>
+<tr>
+<td style="text-align: center;">[[11]]</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:6:"ddwtos";s:6:"length";s:1:"1";s:5:"stamp";s:29:"127.0.0.1+240303213224+HPAGSE";s:11:"timecreated";s:10:"1709501544";s:12:"timemodified";s:10:"1709501544";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:2:"14";s:6:"status";s:5:"ready";s:9:"versionid";s:2:"21";s:7:"version";s:1:"1";s:19:"questionbankentryid";s:2:"14";s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:1:"4";s:4:"name";s:40:"Προεπιλογή για ΔΙΚΤΥΑ";s:9:"contextid";s:2:"14";s:4:"info";s:139:"Η προεπιλεγμένη κατηγορία για ερωτήσεις κοινόχρηστες στο πλαίσιο «ΔΙΚΤΥΑ».";s:10:"infoformat";s:1:"0";s:5:"stamp";s:29:"127.0.0.1+240303153846+0OdofM";s:6:"parent";s:1:"3";s:9:"sortorder";s:3:"999";s:8:"idnumber";N;}s:7:"options";O:8:"stdClass":11:{s:2:"id";s:1:"6";s:10:"questionid";s:2:"21";s:14:"shuffleanswers";s:1:"0";s:15:"correctfeedback";s:55:"<p>Η απάντησή σας είναι σωστή</p>";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:64:"<p>Η απάντηση είναι μερικώς σωστή.</p>";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:66:"<p>Η απάντησή σας είναι λανθασμένη.</p>";s:23:"incorrectfeedbackformat";s:1:"1";s:14:"shownumcorrect";s:1:"1";s:7:"answers";a:11:{i:67;O:8:"stdClass":7:{s:2:"id";s:2:"67";s:8:"question";s:2:"21";s:6:"answer";s:18:"Εφαρμογής";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}";s:14:"feedbackformat";s:1:"0";}i:68;O:8:"stdClass":7:{s:2:"id";s:2:"68";s:8:"question";s:2:"21";s:6:"answer";s:18:"Μεταφοράς";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}";s:14:"feedbackformat";s:1:"0";}i:69;O:8:"stdClass":7:{s:2:"id";s:2:"69";s:8:"question";s:2:"21";s:6:"answer";s:14:"Δικτύου";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}";s:14:"feedbackformat";s:1:"0";}i:70;O:8:"stdClass":7:{s:2:"id";s:2:"70";s:8:"question";s:2:"21";s:6:"answer";s:37:"Διασύνδεσης Δικτύου";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}";s:14:"feedbackformat";s:1:"0";}i:71;O:8:"stdClass":7:{s:2:"id";s:2:"71";s:8:"question";s:2:"21";s:6:"answer";s:18:"Εφαρμογής";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}";s:14:"feedbackformat";s:1:"0";}i:72;O:8:"stdClass":7:{s:2:"id";s:2:"72";s:8:"question";s:2:"21";s:6:"answer";s:22:"Παρουσίασης";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}";s:14:"feedbackformat";s:1:"0";}i:73;O:8:"stdClass":7:{s:2:"id";s:2:"73";s:8:"question";s:2:"21";s:6:"answer";s:18:"Συνεδρίας";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}";s:14:"feedbackformat";s:1:"0";}i:74;O:8:"stdClass":7:{s:2:"id";s:2:"74";s:8:"question";s:2:"21";s:6:"answer";s:18:"Μεταφοράς";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}";s:14:"feedbackformat";s:1:"0";}i:75;O:8:"stdClass":7:{s:2:"id";s:2:"75";s:8:"question";s:2:"21";s:6:"answer";s:14:"Δικτύου";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}";s:14:"feedbackformat";s:1:"0";}i:76;O:8:"stdClass":7:{s:2:"id";s:2:"76";s:8:"question";s:2:"21";s:6:"answer";s:18:"Συνδέσμου";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}";s:14:"feedbackformat";s:1:"0";}i:77;O:8:"stdClass":7:{s:2:"id";s:2:"77";s:8:"question";s:2:"21";s:6:"answer";s:12:"Φυσικό";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:0;}";s:14:"feedbackformat";s:1:"0";}}}s:5:"hints";a:0:{}}

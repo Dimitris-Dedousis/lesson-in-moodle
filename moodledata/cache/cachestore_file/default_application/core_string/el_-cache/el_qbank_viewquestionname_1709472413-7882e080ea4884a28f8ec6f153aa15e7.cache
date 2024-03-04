@@ -1,0 +1,1 @@
+a:4:{s:10:"pluginname";s:48:"Προβολή ονόματος ερώτησης";s:16:"privacy:metadata";s:144:"Το πρόσθετο προβολής ονόματος ερώτησης δεν αποθηκεύει κανένα δεδομένο χρήστη.";s:23:"edit_question_name_hint";s:18:"Edit question name";s:24:"edit_question_name_label";s:24:"New value for {$a->name}";}

@@ -1,0 +1,22 @@
+a:26:{s:8:"encoding";s:39:"Κωδικοποίηση αρχείου";s:13:"expiredaction";s:38:"Δράση λήξης εγγραφής";s:18:"expiredaction_help";s:376:"Επιλέξτε την ενέργεια που θα εκτελεστεί όταν λήξει η εγγραφή του χρήστη. Παρακαλούμε έχετε υπόψη ότι ορισμένα δεδομένα χρήστη και ρυθμίσεις εξαλείφονται από το μάθημα κατά την ακύρωση εγγραφής στο μάθημα.";s:14:"filelockedmail";s:629:"ο αρχείο κειμένου που χρησιμοποιείτε για εγγραφές βασισμένες σε αρχεία ({$a}) δεν μπορεί να διαγραφεί από την διεργασία χρονοπρογραμματισμού cron. Αυτό συνήθως σημαίνει ότι τα δικαιώματα σε αυτήν είναι λάθος. Παρακαλούμε διορθώστε τα δικαιώματα ώστε το Moodle να μπορεί να διαγράψει το αρχείο αυτό, ειδάλλως μπορεί να το επεξεργάζεται επανειλημμένα.";s:21:"filelockedmailsubject";s:62:"Σημαντικό σφάλμα: Αρχείο εγγραφής";s:15:"flatfile:manage";s:82:"Διαχείριση των εγγραφών χρηστών χειροκίνητα";s:16:"flatfile:unenrol";s:94:"Ακύρωση εγγραφής χρηστών από το μάθημα χειροκίνητα";s:18:"flatfileenrolments";s:48:"Εγγραφές απλού αρχείου (CSV)";s:12:"flatfilesync";s:67:"Συγχρονισμός απλού αρχείου εγγραφών";s:8:"location";s:33:"Τοποθεσία αρχείου";s:13:"location_desc";s:191:"Καθορίστε το πλήρες μονοπάτι του αρχείου εγγραφών. Το αρχείο διαγράφεται αυτόματα μετά την επεξεργασία.";s:11:"notifyadmin";s:52:"Ειδοποιήστε τον διαχειριστή";s:14:"notifyenrolled";s:75:"Ειδοποιήστε τους εγγεγραμμένους χρήστες";s:14:"notifyenroller";s:110:"Ειδοποιήστε τον χρήστη που είναι υπεύθυνος για τις εγγραφές";s:34:"messageprovider:flatfile_enrolment";s:59:"Μηνύματα εγγραφής απλού αρχείου";s:7:"mapping";s:67:"Αντιστοίχιση ρόλων επίπεδου αρχείου";s:10:"pluginname";s:33:"Επίπεδο αρχείο (CSV)";s:15:"pluginname_desc";s:1134:"Αυτή η μέθοδος θα ελέγχει κατ' επανάληψη και θα επεξεργάζεται ένα ειδικά διαμορφωμένο αρχείο κειμένου στην τοποθεσία που εσείς ορίζετε. Το αρχείο αυτό είναι ένα αρχείο διαχωρισμένο με κόμματα που θεωρητικά έχει τέσσερα ή έξι πεδία ανά γραμμή:
+
+operation, role, user idnumber, course idnumber [, starttime [, endtime]]
+
+όπου:
+
+* operation - add | del
+* role - student | teacher | teacheredit
+* user idnumber - idnumber in the user table NB not id
+* course idnumber - idnumber in the course table NB not id
+* starttime - start time (in seconds since epoch) - optional
+* endtime - end time (in seconds since epoch) - optional
+
+Θα μπορούσε να μοιάζει κάπως σαν το παρακάτω:
+<pre class="informationbox">
+   add, student, 5, CF101
+   add, teacher, 6, CF101
+   add, teacheredit, 7, CF101
+   del, student, 8, CF101
+   del, student, 17, CF101
+   add, student, 21, CF101, 1091115000, 1091215000
+</pre>";s:31:"privacy:metadata:enrol_flatfile";s:252:"Το πρόσθετο εγγραφών απλού αρχείου (CSV) μπορεί να αποθηκεύσει προσωπικά δεδομένα σχετικά με τις μελλοντικές εγγραφές στον πίνακα enrol_flatfile.";s:38:"privacy:metadata:enrol_flatfile:action";s:123:"Η ενέργεια εγγραφής που αναμένεται κατά την ημερομηνία που δίνεται";s:40:"privacy:metadata:enrol_flatfile:courseid";s:107:"Το αναγνωριστικό μαθήματος στο οποίο αναφέρεται η εγγραφή";s:38:"privacy:metadata:enrol_flatfile:roleid";s:105:"Το αναγνωριστικό του ρόλου που θα ανατεθεί ή θα αφαιρεθεί";s:41:"privacy:metadata:enrol_flatfile:timestart";s:55:"Πότε ξεκινά η αλλαγή εγγραφής.";s:39:"privacy:metadata:enrol_flatfile:timeend";s:53:"Πότε λήγει η αλλαγή εγγραφής.";s:44:"privacy:metadata:enrol_flatfile:timemodified";s:87:"Ο χρόνος κατά τον οποίο τροποποιείται η εγγραφή";s:38:"privacy:metadata:enrol_flatfile:userid";s:121:"Το αναγνωριστικό του χρήστη στον οποίο αναφέρεται η ανάθεση ρόλου";}

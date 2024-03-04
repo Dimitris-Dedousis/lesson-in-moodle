@@ -1,0 +1,40 @@
+<?php
+// This file is part of Moodle - https://moodle.org/
+//
+// Moodle is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// Moodle is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
+
+/**
+ * Strings for component 'availability_quizquestion', language 'el', version '4.3'.
+ *
+ * @package     availability_quizquestion
+ * @category    string
+ * @copyright   1999 Martin Dougiamas and contributors
+ * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
+defined('MOODLE_INTERNAL') || die();
+
+$string['ajaxerror'] = 'Σφάλμα κατά την επικοινωνία με τον εξυπηρετητή για τη λήψη ερωτήσεων κουίζ';
+$string['description'] = 'Αυτό το πρόσθετο σάς επιτρέπει να περιορίσετε την πρόσβαση σε μια άλλη δραστηριότητα του Moodle με βάση το αποτέλεσμα μιας μόνο ερώτησης σε ένα κουίζ.';
+$string['error_selectquestion'] = 'Πρέπει να επιλέξετε μια ερώτηση.';
+$string['error_selectquiz'] = 'Πρέπει να επιλέξετε ένα κουίζ.';
+$string['error_selectstate'] = 'Πρέπει να επιλέξετε μια κατάσταση.';
+$string['label_question'] = 'Ποια ερώτηση στο επιλεγμένο κουίζ';
+$string['label_state'] = 'Απαιτούμενη κατάσταση';
+$string['pluginname'] = 'Περιορισμός με βάση μία ερώτηση κουίζ';
+$string['privacy:metadata'] = 'Το πρόσθετο Περιορισμού με βάση μία ερώτηση κουίζ, δεν αποθηκεύει κανένα προσωπικό δεδομένο.';
+$string['questionnumberandname'] = 'Ερ.{$a->number}) {$a->name}';
+$string['requires_quizquestion'] = 'Η ερώτηση <b>{$a->questiontext}</b> στο <b><a href="{$a->quizurl}">{$a->quizname}</a></b> είναι <b>{$a->requiredstate}</b>';
+$string['requires_quizquestionnot'] = 'Η ερώτηση <b>{$a->questiontext}</b> στο <b><a href="{$a->quizurl}">{$a->quizname}</a></b> δεν είναι <b>{$a->requiredstate}</b>';
+$string['title'] = 'Ερώτηση κουίζ';
