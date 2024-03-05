@@ -15,24 +15,6 @@
 
 ## ΕΓΚΑΤΑΣΤΑΣΗ MOODLE
 
-```bash
-mkdir /var/www/moodledata
-```
-
-```bash
-sudo chmod 777 /var/www/moodledata
-```
-
-```bash
-sudo systemctl start apache2
-```
-
-```bash
-sudo systemctl start mariadb
-```
-
-[https://127.0.0.1/moodle](https://127.0.0.1/moodle)
-
 ![Untitled](md-files/Untitled%201.png)
 
 ## [ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ](https://github.com/Dimitris-Dedousis/lesson-in-moodle/blob/main/Database(Mariadb).md)
