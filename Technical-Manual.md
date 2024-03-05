@@ -26,6 +26,7 @@ sudo systemctl start mariadb
 
 [https://127.0.0.1/moodle](https://127.0.0.1/moodle)
 
+## [moodle/config.php](./moodle/config.php) 
 
 ## [moodledata/filedir](./moodledata/filedir) (Αρχεία)
 
