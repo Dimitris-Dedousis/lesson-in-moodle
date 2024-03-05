@@ -1,10 +1,31 @@
 # Τεχνικό Εγχειρίδιο
 
+## ΕΓΚΑΤΑΣΤΑΣΗ MOODLE
+
 > apache2 <br>
 > Server version: Apache/2.4.58 (Debian)
 
 > mariadb <br>
 > Server version: 10.11.6-MariaDB-2 Debian n/a
+
+```bash
+mkdir /var/www/moodledata
+```
+
+```bash
+sudo chmod 777 /var/www/moodledata
+```
+
+```bash
+sudo systemctl start apache2
+```
+
+```bash
+sudo systemctl start mariadb
+```
+
+[https://127.0.0.1/moodle](https://127.0.0.1/moodle)
+
 
 ## [moodledata/filedir](./moodledata/filedir)
 
