@@ -27,7 +27,7 @@ sudo systemctl start mariadb
 [https://127.0.0.1/moodle](https://127.0.0.1/moodle)
 
 
-## [moodledata/filedir](./moodledata/filedir)
+## [moodledata/filedir](./moodledata/filedir) (Αρχεία)
 
 Το Moodle αποθηκεύει τα αρχεία που ανεβάζετε σε έναν φάκελο που ονομάζεται "filedir" μέσα στη δομή του συστήματος αρχείων του Moodle.
 
