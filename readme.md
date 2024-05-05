@@ -1,5 +1,7 @@
 ![Untitled](md-files/Untitled.png)
 
+# [Download Files](https://github.com/Dimitris-Dedousis/lesson-in-moodle/archive/refs/heads/main.zip)
+
 Στα πλαίσια του μαθήματος “Εκπαιδευτική Τεχνολογία & Διδακτική της Πληροφορικής” δημιουργήσαμε για την εξαμηνία εργασία ένα ψηφιακό μάθημα στο Moodle.
 
 ## ΕΙΣΑΓΩΓΗ
